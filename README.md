@@ -13,13 +13,13 @@ Kesehatan mental merupakan aspek krusial dalam kehidupan akademik. Depresi pada 
 * **Rekomendasi Cerdas:** Memberikan saran dan peringatan dini berdasarkan hasil akhir prediksi.
 
 ## 📂 Struktur Direktori  
-📦 FastTrack_BengKod_SuluhYogaPratama_A11.2023.14979
- ┣ 📂 model
- ┃ ┣ 📜 fitur_pilihan.pkl
- ┃ ┣ 📜 model_depresi_fasttrack.pkl
- ┃ ┗ 📜 scaler_fasttrack.pkl
- ┣ 📜 app.py
- ┣ 📜 requirements.txt
- ┣ 📂 notebook
- ┃ ┣ 📜 SuluhYogaPratama_A11_2023_14979_FastTrack_DS.ipynb
+📦 FastTrack_BengKod_SuluhYogaPratama_A11.2023.14979  
+ ┣ 📂 model  
+ ┃ ┣ 📜 fitur_pilihan.pkl  
+ ┃ ┣ 📜 model_depresi_fasttrack.pkl  
+ ┃ ┗ 📜 scaler_fasttrack.pkl  
+ ┣ 📜 app.py  
+ ┣ 📜 requirements.txt  
+ ┣ 📂 notebook  
+ ┃ ┣ 📜 SuluhYogaPratama_A11_2023_14979_FastTrack_DS.ipynb  
  ┗ 📜 README.md
